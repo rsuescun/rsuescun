@@ -1,7 +1,7 @@
 # 💫About Me :
 👨‍👩‍👧 Father, husband and webdev the rest of the time
-👨🏻‍💻 I’m currently working on Accenture
-HTML, CSS, JS, React, Vue, Angular
+
+💻 I’m currently working on Accenture
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raulsuescun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raulsuescun) 
